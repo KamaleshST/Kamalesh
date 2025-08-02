@@ -15,3 +15,42 @@ This is a cross-platform Todo Task Management mobile application built using **R
 ---
 
 ## 📂 Folder Structure
+---
+
+## 🛠 Tech Stack
+- React Native (with Expo)
+- AsyncStorage for local persistence
+- MVVM folder pattern
+
+---
+
+## 🧪 Setup Instructions
+1. Clone the repository
+2. Run `npm install`
+3. Launch with `npx expo start`
+
+---
+
+## 📌 Assumptions
+- Authentication is mocked for the purpose of this demo
+- All tasks are stored locally on the device
+- Firebase or external sync can be added in future iterations
+
+---
+
+## 👤 Developer
+Kamalesh
+
+---
+
+## 📹 Loom Video (Optional)
+[Add your Loom link here if available]
+
+---
+
+## 📁 APK Download
+[Insert Google Drive link to APK here once available]
+
+---
+
+**This project is a part of a hackathon run by https://www.katomaran.com**
